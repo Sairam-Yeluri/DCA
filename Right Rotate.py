@@ -6,4 +6,4 @@ l1 = lst[0:l-n]
 l2 = lst[l-n:l]
 lst2 = l2+l1
 
-print("{} rotated list is {}".format(n,lst2))
+print("{} right rotated list is {}".format(n,lst2))
