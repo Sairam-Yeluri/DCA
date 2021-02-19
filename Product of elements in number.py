@@ -1,4 +1,4 @@
-n = int(123456)
+n = 123456
 lst = list(str(n))
 temp = 1
 for i in lst:
